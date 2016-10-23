@@ -1,4 +1,3 @@
-#TODO complete this method
 def hello_world
 end
 
