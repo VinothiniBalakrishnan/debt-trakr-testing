@@ -3,7 +3,6 @@ def hello_there
   puts 'Hello, World!'
 end
 
-#TODO - new comment
 def hello_there
   puts 'Hello, World --'
 end
@@ -13,3 +12,5 @@ end
 def hello_there
   puts 'Hello, World --'
 end
+
+#TODO - new comment
